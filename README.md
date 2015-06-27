@@ -15,3 +15,5 @@ modificado en GIT
 lo vuelvo a modificar en GIT 
 
 OTRA VEZ
+
+ahora desde local
